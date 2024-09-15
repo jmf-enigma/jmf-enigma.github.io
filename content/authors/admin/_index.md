@@ -11,7 +11,7 @@ last_name: Jiang
 
 # Status emoji
 status:
-  icon: [合十]
+  icon: [合十] [咖啡]
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,8 +33,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:jiangmf@connect.hku.hk'
     label: E-mail Me
-  - icon: brands/wechat
-    label: mingfeijiang01
+
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=_uGAIgQAAAAJ&hl=en
 
