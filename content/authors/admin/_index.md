@@ -1,9 +1,9 @@
 ---
 # Display name
-title: 蒋明非
+title: 蒋明非 Jiang Mingfei
 
 # Name pronunciation (optional)
-name_pronunciation: Jiang Mingfei
+name_pronunciation:  mingfei
 
 # Full name (for SEO)
 first_name: Mingfei
@@ -34,7 +34,7 @@ profiles:
     url: 'mailto:jiangmf@connect.hku.hk'
     label: E-mail Me
   - icon: brands/wechat
-    url: mingfeijiang01
+    label: mingfeijiang01
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=_uGAIgQAAAAJ&hl=en
 
