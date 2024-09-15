@@ -46,35 +46,33 @@ interests:
 education:
   - area: PhD Operations Mangement
     institution: University of Hong Kong
-    date_start: 2024-09-01
+    date_start: 2024-09
     date_end: 2029
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      I hope I can pubilsh a lot of papers in MS/OR.
+      
+  - area: MEcon 
+    institution: University of Hong Kong
+    date_start: 2023-09
+    date_end: 2024-06
     summary: |
       GPA: 3.8/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      - Mircoeconomics
+      - Marcoeconomics
+      - Econometrics
+        
+  - area: BEng Mechatronical Engineering
+    institution: Beijing Institute of Technology
+    date_start: 2019-09
+    date_end: 2023-06
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.8/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Mathematical Analysis I 92, Mathematical Analysis II 96, Linear Algebra 97, Probability and Mathematical Statistics 98, Complex Function and Integral Transform 95, Optimization Theory and Application 91
+      
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
