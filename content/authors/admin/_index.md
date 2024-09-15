@@ -11,7 +11,7 @@ last_name: Jiang
 
 # Status emoji
 status:
-  icon: 
+  icon: [合十]
 
 # Is this the primary user of the site?
 superuser: true
