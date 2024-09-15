@@ -45,15 +45,15 @@ interests:
 education:
   - area: PhD Operations Mangement
     institution: University of Hong Kong
-    date_start: 2024-09
-    date_end: 2029
+    date_start: 2024-09-01
+    date_end: 2029-06-30
     summary: |
       I hope I can pubilsh a lot of papers in MS/OR.
       
   - area: MEcon 
     institution: University of Hong Kong
-    date_start: 2023-09
-    date_end: 2024-06
+    date_start: 2023-09-01
+    date_end: 2024-06-30
     summary: |
       GPA: 3.8/4.0
 
@@ -64,8 +64,8 @@ education:
         
   - area: BEng Mechatronical Engineering
     institution: Beijing Institute of Technology
-    date_start: 2019-09
-    date_end: 2023-06
+    date_start: 2019-09-01
+    date_end: 2023-06-30
     summary: |
       GPA: 3.8/4.0
       
