@@ -11,7 +11,7 @@ last_name: Jiang
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: [doge]
 
 # Is this the primary user of the site?
 superuser: true
@@ -39,15 +39,15 @@ profiles:
     url: https://scholar.google.com/citations?user=_uGAIgQAAAAJ&hl=en
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Contectual Optimization
+  - Long-term Engagement
+  - Vedio Games
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Operations Mangement
+    institution: University of Hong Kong
+    date_start: 2024-09-01
+    date_end: 2029
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
