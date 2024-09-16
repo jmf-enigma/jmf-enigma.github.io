@@ -119,12 +119,17 @@ awards:
   - title: National Scholarship (Twice)
     summary: |
       Highest Scholarship for Chinese UG student. Top 1 in the UG major.
+    
   - title: Distinguished College Student Graduating in Beijing
     summary: |
       Highest Merit for UG student in Beijing.
+    
   - title: COMAP Interdisciplinary Contest In Modeling Finalist (Top 1%)
+    
   - title: Math Competition for College Students (Beijing) Second prize
+    
   - title: Math Competition for High School Students (Beijing) Second prize
+
 
 
 ## About Me
